@@ -1,8 +1,7 @@
-# Hamza Kahveci — Kişisel Web Portfolyosu
+# Mustafa Sarıaslan — Kişisel Web Portfolyosu
 
 > Crimson & White temalı, modern ve minimalist kişisel portfolyo sitesi.
 
-🌐 **Canlı Demo:** [web-projesi-2026.github.io/hamza-kahveci-web-portfolio](https://web-projesi-2026.github.io/hamza-kahveci-web-portfolio/)
 
 ---
 
