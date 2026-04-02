@@ -55,13 +55,6 @@
 
 ---
 
-## 📬 İletişim
-
-| Platform | Link |
-|----------|------|
-| GitHub | [github.com/gb0u](https://github.com/gb0u) |
-| LinkedIn | [hamza-kahveci](https://www.linkedin.com/in/hamza-kahveci-b016393a2/) |
-| E-posta | hamzakahveci447@gmail.com |
 
 ---
 
